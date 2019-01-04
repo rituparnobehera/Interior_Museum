@@ -1,2 +1,2 @@
 # Interior_Museum
-"Museum-Interior" is a virtual environment of interior of the museum.
+"Museum-Interior" is a virtual environment of Museum Interior.
